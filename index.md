@@ -2,6 +2,6 @@
 
 ## Favorite things about CS193
 
-- Interesting guest speakers
+- Interesting class assignments
 - Useful information
-- Best Teacher
+- Best Teachers
